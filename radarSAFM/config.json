@@ -1,0 +1,157 @@
+{
+  "date": "Освітня програма другого (магістерського рівня), F4 Системний аналіз та наука про дані, 2025 р.",
+  "entries": [
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "ЗО 01 Інтелектуальна власність та патентознавство",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "ЗО 02 Сталий інноваційний розвиток",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 0,
+      "label": "ЗО 03 Практичний курс іноземної мови для ділової комунікації. Семестр 1",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+	{
+      "quadrant": 2,
+      "ring": 1,
+      "label": "ЗО 03 Практичний курс іноземної мови для ділової комунікації. Семестр 2",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "ЗО 04 Розробка стартап-проектів",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 2,
+      "ring": 1,
+      "label": "ЗО 05 Педагогіка вищої школи",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "ПО 01 Системи і методи підтримки прийняття рішень",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "ПО 02 Методи і технології інтелектуального аналізу даних",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 1,
+      "label": "ПО 03 Інтелектуальний аналіз даних в системах підтримки прийняття рішень. Міждисциплінарна курсова робота",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "ПО 04 Обчислювальний інтелект",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "ПО 05 Системна фінансова математика",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },	
+    {
+      "quadrant": 3,
+      "ring": 0,
+      "label": "ПО 06 Ризик-менеджмент",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },	
+	{
+      "quadrant": 3,
+      "ring": 2,
+      "label": "ПО 07 Практика",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+	{
+      "quadrant": 3,
+      "ring": 2,
+      "label": "ПО 08 Виконання магістерської дисертації",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 0
+    },
+	{
+      "quadrant": 1,
+      "ring": 1,
+      "label": "ПВ 01 Освітній компонент 1 Ф-Каталогу \n1.1.Технічний аналіз фінансового ринку \n1.2.Безпека даних та знань \n1.3.Мультиагентні системи",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 2
+    },
+	{
+      "quadrant": 1,
+      "ring": 1,
+      "label": "ПВ 02 Освітній компонент 2 Ф-Каталогу \n2.1.Бібліотеки глибокого навчання та наукових обчислень \n2.2.Інтелектуальний аналіз великих сховищ даних (Big data analytics) \n2.3.Data Science",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 2
+    },
+	{
+      "quadrant": 1,
+      "ring": 1,
+      "label": "ПВ 03 Освітній компонент 3 Ф-Каталогу \n3.1.Фундаментальний аналіз фінансового ринку \n3.2.Бізнес-аналіз \n3.3. Аналіз даних в маркетингових дослідженнях",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 2
+    },
+	{
+      "quadrant": 0,
+      "ring": 1,
+      "label": "ПВ 04 Освітній компонент 4 Ф-Каталогу \n4.1.Аналіз великих даних в глобальній економіці \n4.2.Когнітивне моделювання \n4.3.Фондові ринки в економіці і бізнесі",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 2
+    },
+	{
+      "quadrant": 0,
+      "ring": 1,
+      "label": "ПВ 05 Освітній компонент 5 Ф-Каталогу \n5.1. Дизайн систем машинного навчання \n5.2. Розробка та впровадження цифрових продуктів \n5.3.Сучасні методи прогнозування",
+	  "link": "https://iasa.kpi.ua/",
+      "active": true,
+      "moved": 2
+    }
+  ]
+}
